@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rai AKA @bahaskoding</h1>
+<h1 align="center">Hi 👋, I'm Rai A.K.A @bahaskoding</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Back End**
